@@ -1,0 +1,2 @@
+1. The bug is that when getting the number it is read as a string instead of a varaible and therefore the sum is concatenating the strings instead of adding them.
+2. Can convert the string into a number using the + operator. Must be placed before the string 2 and 3 and will return the string as a number.
